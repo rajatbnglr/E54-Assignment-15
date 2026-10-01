@@ -1,8 +1,8 @@
 {
   "name": "e54-assignment-15",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "E54 Assignment 15 - Books API",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.1.0"
   }
 }
